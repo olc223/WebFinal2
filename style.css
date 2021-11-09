@@ -59,12 +59,12 @@ font-size: 13px;
 .text-box h1{
   font-size: 62px;
 }
-.text-box p{
+.text-box h2{
   margin: 10px 0 40px;
   font-size: 14px;
   color: #fff;
 }
-.text-box p2{
+.text-box h3{
   margin: 10px 0 40px;
   font-size: 40px;
   color: rgba(75, 59, 6, 0.808);
