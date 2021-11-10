@@ -68,7 +68,7 @@ font-size: 13px;
   margin: 10px 0 40px;
   font-size: 40px;
   color: rgba(5, 5, 5, 0.808);
-  
+
 }
 .Saxbys-btn{
   display: inline-block;
@@ -163,3 +163,12 @@ h1{
   font-size: 36px;
   font-weight: 600;
 }
+
+p{
+  color: #291801;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 22px;
+  padding: 10px;
+}
+
