@@ -166,7 +166,7 @@ h1{
 
 p{
   color: #291801;
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 300;
   line-height: 22px;
   padding: 10px;
@@ -180,7 +180,7 @@ p{
 }
 .course-col{
   flex-basis: 31%;
-  background: #fff3f3;
+  background: #978266;
   border-radius: 10px;
   margin-bottom: 5%;
   padding: 20px 12px;
@@ -193,7 +193,7 @@ h3{
   margin: 10px 0;
 }
 .course-col:hover{
-  box-shadow: 0 0 20px 0px rgba(133, 121, 82, 0.911);
+  box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
 }
 @media(max-width: 700px){
   .row{
