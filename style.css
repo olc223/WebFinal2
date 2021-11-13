@@ -160,12 +160,7 @@ nav .fa{
   margin: auto;
   text-align: center;
   padding-top: 100px;
-  min-height: 50vh;
-  width: 100%;
-  background-image: linear-gradient(rgba(75, 59, 6, 0.808),rgba(75, 59, 6, 0.808)),url(images/saxbys.jpg);
-  background-position: center;
-  background-size: cover;
-  position: relative;
+ 
 }
 h1{
   font-size: 36px;
