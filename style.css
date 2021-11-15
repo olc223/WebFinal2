@@ -211,7 +211,7 @@ h3{
   padding-top: 50px;
 }
 
-.campus-col{
+.Lit-col{
   flex-basis: 32%;
   border-radius: 10px;
   margin-bottom: 30px;
@@ -219,7 +219,7 @@ h3{
   overflow: hidden;
 }
 
-.campus-col img{
+.Lit-col img{
   width: 100%;
 }
 
