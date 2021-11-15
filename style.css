@@ -230,17 +230,6 @@ h3{
   padding-top: 100px;
  }
 
- .Lit-col{
-  flex-basis: 32%;
-  border-radius: 10px;
-  margin-bottom: 30px;
-  position: relative;
-  overflow: hidden;
-}
-
-.Lit-col img{
-  width: 100%;
-}
 
 
 
