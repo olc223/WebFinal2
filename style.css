@@ -223,5 +223,18 @@ h3{
   width: 100%;
 }
 
+.facilities-col{
+  flex-basis: 31%;
+  border-radius: 10px;
+  margin-bottom: 5%;
+  text-align: left;
+}
+
+.facilities-col img{
+  width: 100%;
+  border-radius: 10px;
+}
+
+
 
 
