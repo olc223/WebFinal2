@@ -183,7 +183,7 @@ p{
 }
 .course-col{
   flex-basis: 31%;
-  background: #e0c199;
+  background: #fff3f3;
   border-radius: 10px;
   margin-bottom: 5%;
   padding: 20px 12px;
@@ -205,7 +205,7 @@ h3{
 }
 
 .Lit{
-  width: 80;
+  width: 80%;
   margin: auto;
   text-align: center;
   padding-top: 50px;
