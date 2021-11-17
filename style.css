@@ -251,6 +251,29 @@ h3{
    padding-bottom: 50px;
  }
 
+ .about-col{
+   flex-basis: 48%;
+   padding: 30px 2px;
+ }
+
+ .about-col img{
+   width: 100%;
+ }
+
+ .about-col h1{
+   padding-top: 0;
+ }
+
+ .about-col p{
+   padding: 15px 0 25px;
+ }
+
+ .brown-btn{
+   border: 1px solid #291801;
+   background: transparent;
+   color: #291801;
+ }
+
 
 
 
