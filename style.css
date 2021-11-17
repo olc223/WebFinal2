@@ -240,10 +240,6 @@ h3{
    color: #fff;
  }
 
- .sub-header h1{
-   margin-top: 50px;
- }
-
  .about-us{
    width: 80%;
    margin: auto;
@@ -272,6 +268,7 @@ h3{
    border: 1px solid #291801;
    background: transparent;
    color: #291801;
+   margin: auto;
  }
 
  .brown-btn:hover{
