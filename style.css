@@ -272,6 +272,7 @@ h3{
    background: transparent;
    color: #291801;
    display: inline-block;
+   margin: auto;
  }
 
  .brown-btn:hover{
