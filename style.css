@@ -82,6 +82,7 @@ font-size: 13px;
   background: transparent; 
   position: relative;
   cursor: pointer;
+  margin: auto;
 }
 .Saxbys-btn:hover{
   border: 1px solid #291801;
