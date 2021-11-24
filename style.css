@@ -271,14 +271,24 @@ h3{
    border: 1px solid #291801;
    background: transparent;
    color: #291801;
-   display: inline-block;
-   margin: auto;
+   display: flex;
+
  }
 
  .brown-btn:hover{
    color: #fff;
  }
 
+ .sub-header1{
+  height: 50vh;
+  width: 100%;
+  background-image: linear-gradient(rgba(75, 59, 6, 0.808),rgba(75, 59, 6, 0.808)),url(images/lit2.jpg);
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  color: #fff;
+  font-size: xx-large;
+}
 
  
 
